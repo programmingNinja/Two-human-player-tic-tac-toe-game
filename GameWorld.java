@@ -1,7 +1,7 @@
 /**
  * Description:
  * This is the world in which the game is played. It 
- * - maintains and update the states (checking if someone has won the game or the game is a draw)
+ * - maintains and update the states
  * - updates the grid
  * - switches the player according to their turns.
  * - handles the moves of the players
